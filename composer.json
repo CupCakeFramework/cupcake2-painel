@@ -1,0 +1,19 @@
+{
+    "name": "cupcake-framework/cupcake2-painel",
+    "description": "Painel Gerenciador Cupcake 2",
+    "require": {
+        "cupcake-framework/cupcake2-framework": "dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "CupPainel\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Fiorani",
+            "email": "ricardo.fiorani@gmail.com"
+        }
+    ]
+}
