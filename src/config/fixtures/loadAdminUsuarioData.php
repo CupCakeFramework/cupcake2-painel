@@ -1,10 +1,10 @@
 <?php
 
-namespace App\Fixture;
+namespace CupPainel\Fixture;
 
 use Doctrine\Common\Persistence\ObjectManager;
 use Doctrine\Common\DataFixtures\FixtureInterface;
-use App\Models\UsuarioAdmin;
+use CupPainel\Models\UsuarioAdmin;
 
 class loadAdminUsuarioData implements FixtureInterface {
 
