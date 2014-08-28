@@ -2,7 +2,7 @@
     "name": "cupcake-framework/cupcake2-painel",
     "description": "Painel Gerenciador Cupcake 2",
     "require": {
-        "cupcake-framework/cupcake2-framework": "dev"
+        "cupcake-framework/cupcake2-framework": "dev-master"
     },
     "autoload": {
         "psr-4": {
